@@ -1,0 +1,20 @@
+# Site settings
+title: Julian Cross
+description: >-
+  Personal website and portfolio for Julian Cross.
+baseurl: ""
+url: "https://geo-jules-cross.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
