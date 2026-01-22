@@ -1,6 +1,6 @@
 # geo-jules-cross.github.io
 
-GitHub Pages site for Julian Cross.
+GitHub Pages site available at https://geo-jules-cross.github.io
 
 ## About
 
@@ -23,4 +23,4 @@ To run this site locally:
 
 ## Deployment
 
-This site automatically deploys to GitHub Pages when changes are pushed to the main branch. The site will be available at https://geo-jules-cross.github.io
+This site automatically deploys to GitHub Pages when changes are pushed to the main branch.
